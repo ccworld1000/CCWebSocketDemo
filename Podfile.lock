@@ -1,0 +1,16 @@
+PODS:
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - SocketRocket
+
+SPEC REPOS:
+  trunk:
+    - SocketRocket
+
+SPEC CHECKSUMS:
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 99edcafe35f285fa6f983ab7190ac4e6ff6a3d0d
+
+COCOAPODS: 1.8.4
